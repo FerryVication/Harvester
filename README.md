@@ -9,7 +9,7 @@
 
 ## Link Download Termux
 [Click Here](https://f-droid.org/repo/com.termux_118.apk)👈
-## Cara Install Script
+## How To Install
 ```bash
 $ pkg install python git
 $ pip install requests mechanize
