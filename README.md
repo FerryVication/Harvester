@@ -4,7 +4,7 @@
 <p align="center">
  
 ### Example
- <img src="https://github.com/CyberCarboon/FileServer/blob/main/EmailScrape.jpg" width="440" title="Hasil" alt="Hasil">
+ <img src="https://github.com/CyberCarboon2/FileServer/blob/main/EmailScrape.jpg" width="440" title="Hasil" alt="Hasil">
 </p>
 
 ## Link Download Termux
