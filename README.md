@@ -11,11 +11,8 @@
 [Click Here](https://f-droid.org/repo/com.termux_118.apk)👈
 ## How To Install
 ```bash
-$ pkg install python git
-$ pip install requests mechanize
-$ pip install rich bs4
-$ pip install --upgrade pip
-$ pip install requests
+$ pkg install python
+$ pip install -r requirements.txt
 $ git clone https://github.com/CyberCarboon2/EmailScrape
 $ ls
 $ cd EmailScrape
